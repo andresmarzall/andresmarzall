@@ -6,6 +6,5 @@ Habilidades Destacadas:
 
 💻 Desarrollo backend con tecnologías .NET C#
 🌐 Creación y consumo de APIs REST y CRUD
-📦 Uso de colecciones genéricas y LINQ
 🤖 Implementación de pruebas unitarias
 🛡️ Experiencia en seguridad con JWT, roles y permisos
