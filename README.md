@@ -1,4 +1,4 @@
-🚀 Desarrollador de Backend en .NET apasionado y autodidacta con un fuerte compromiso con la excelencia técnica. Mi objetivo es formar parte de un equipo innovador y dinámico, donde pueda aplicar mi experiencia en el desarrollo backend utilizando tecnologías .NET C#.
+🚀 Programador de Backend en .NET apasionado y autodidacta con un fuerte compromiso con la excelencia técnica.
 
 Habilidades Destacadas:
 
