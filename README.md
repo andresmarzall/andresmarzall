@@ -8,17 +8,58 @@
 
 ## 🛠️ Tecnologías y Herramientas  
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
+      <br>.NET Core
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48" alt="SQL Server" />
+      <br>SQL Server
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/entity-framework-core-1.svg" width="48" height="48" alt="Entity Framework Core" />
+      <br>EF Core
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="120">
+      <img src="https://static-00.iconduck.com/assets.00/swagger-icon-498x512-dmf4j5qf.png" width="48" height="48" alt="Swagger" />
+      <br>Swagger
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>  
 
 ---
 
@@ -47,4 +88,4 @@ Aplicación web tipo blog con autenticación avanzada, SEO optimizado y panel de
 💼 [LinkedIn](https://www.linkedin.com/in/andres-marzal-3451b0262/)  
 
 ---
-⭐ Siempre abierto a aprender y a nuevas oportunidades en desarrollo web con **.NET**.  
+Siempre abierto a aprender y a nuevas oportunidades en desarrollo web con **.NET**.  
