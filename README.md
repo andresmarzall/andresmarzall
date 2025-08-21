@@ -23,7 +23,7 @@
       <br><sub>SQL Server</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/3176/3176391.png" width="40" alt="Entity Framework" />
+      <img src="https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.8/icon" width="40" alt="Entity Framework" />
       <br><sub>Entity Framework Core</sub>
     </td>
     <td align="center" width="100">
