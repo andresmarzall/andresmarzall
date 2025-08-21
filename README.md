@@ -49,7 +49,7 @@
       <br><sub>GitHub</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/10169/10169756.png" width="40" alt="Swagger" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-qHhkU65OgRkaxFh1vRF4ycDfUOznjs7cEu5aXbMwWCYpNUMNPfDcL9Fox0a3_mbtAY&usqp=CAU" width="40" alt="Swagger" />
       <br><sub>Swagger</sub>
     </td>
   </tr>
