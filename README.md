@@ -1,8 +1,8 @@
 # 👋 Hola, soy Andrés Ricardo Marzal Padilla  
 
-💻 Desarrollador web con experiencia práctica en proyectos propios usando **C# y ASP.NET Core**.  
-🚀 Apasionado por crear aplicaciones web claras, seguras y escalables, siempre enfocado en la mejora continua.  
-📚 Más de 2 años de aprendizaje autodidacta + 1 año desarrollando proyectos personales.  
+💻 Desarrollador web especializado en **C# y ASP.NET Core**, con experiencia práctica en proyectos propios.  
+🔒 Enfocado en construir aplicaciones seguras, escalables y mantenibles.  
+📚 Más de 2 años de aprendizaje autodidacta + 1 año desarrollando proyectos aplicados.  
 
 ---
 
@@ -10,53 +10,53 @@
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      <br>C#
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+      <br><sub>C#</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
-      <br>.NET Core
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET" />
+      <br><sub>.NET Core</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48" alt="SQL Server" />
-      <br>SQL Server
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server" />
+      <br><sub>SQL Server</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/entity-framework-core-1.svg" width="48" height="48" alt="Entity Framework Core" />
-      <br>EF Core
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/3176/3176391.png" width="40" alt="Entity Framework" />
+      <br><sub>Entity Framework Core</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="120">
-      <img src="https://static-00.iconduck.com/assets.00/swagger-icon-498x512-dmf4j5qf.png" width="48" height="48" alt="Swagger" />
-      <br>Swagger
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+      <br><sub>JavaScript</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+      <br><sub>Bootstrap</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
+      <br><sub>Firebase</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+      <br><sub>Git</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+      <br><sub>GitHub</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/10169/10169756.png" width="40" alt="Swagger" />
+      <br><sub>Swagger</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
+      <br><sub>Postman</sub>
     </td>
   </tr>
 </table>  
@@ -66,18 +66,19 @@
 ## 📌 Proyecto destacado  
 
 ### 📰 [Nest Reports](https://blogwebroles.azurewebsites.net)  
+
 Aplicación web tipo blog con autenticación avanzada, SEO optimizado y panel de administración.  
 
-✨ **Características principales:**  
-- URLs amigables y slugs automáticos basados en el título.  
+**Características principales:**  
+- URLs amigables y slugs automáticos.  
 - Categorías dinámicas con paginación.  
-- Sistema de Likes con vista personalizada por usuario.  
-- Búsqueda en tiempo real con sugerencias desde la base de datos.  
-- Autenticación con Google vía Firebase, validación de tokens y cookies seguras en ASP.NET Core MVC.  
+- Sistema de Likes con vistas personalizadas por usuario.  
+- Búsqueda en tiempo real con sugerencias.  
+- Autenticación con Google (Firebase) integrada con ASP.NET Core MVC.  
 - Editor de texto enriquecido con Quill.js.  
 
-🔗 **Repositorio:** [Ver en GitHub](https://github.com/andresmarzall/NestReports)  
-🌐 **Demo en vivo:** [Nest Reports en Azure](https://blogwebroles.azurewebsites.net)  
+🔗 [Repositorio en GitHub](https://github.com/andresmarzall/NestReports)  
+🌐 [Demo en Azure](https://blogwebroles.azurewebsites.net) 
 
 ---
 
